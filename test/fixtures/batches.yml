@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  class_date: 2018-08-08 19:42:41
+  room: MyString
+
+two:
+  class_date: 2018-08-08 19:42:41
+  room: MyString
